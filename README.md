@@ -13,4 +13,8 @@ Autor: Antonio Garcías Muñoz
 
 • Dispone de imágenes obtenidas en la página gratuita "pixabay".
 
-Previsualización:https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/proyecto-lunar-landing-minified-javascript/principal.html
+Previsualización:
+
+https://rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/tree/proyecto-lunar-landing-minified-javascript
+
+
