@@ -13,6 +13,8 @@
 
 Previsualización: https://rawgit.com/urbinapro/lunar-landing-javascript/master/index.html
 
+Se ha realizado un versión minified (branch)
+
 Partiendo del código esqueleto suministrador por el profesor mi aplicación web realiza las siguientes funciones
 
 •	Se ha colocado como fondo del juego una imagen del cielo estelar para darle más realismo al juego.
