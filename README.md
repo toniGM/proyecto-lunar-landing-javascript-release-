@@ -11,9 +11,14 @@
   • Dispone de imágenes obtenidas en la página gratuita "pixabay".
   
 
-Previsualización: https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/master/principal.html
+Previsualización: 
 
-Se ha realizado un versión minified (branch). Para ver su funcionamiento se puede ver aquí: https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/proyecto-lunar-landing-minified-javascript/principal.html
+https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/master/principal.html
+
+Se ha realizado un versión minified (branch). Para ver su funcionamiento se puede ver aquí:
+
+https://rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/proyecto-lunar-landing-minified-javascript/principal.html
+
 
 Partiendo del código esqueleto suministrador por el profesor mi aplicación web realiza las siguientes funciones
 
