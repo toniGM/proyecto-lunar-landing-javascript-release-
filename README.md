@@ -13,7 +13,7 @@
 
 Previsualización: 
 
-https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/master/principal.html
+https://rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/master/principal.html
 
 Se ha realizado un versión minified (branch). Para ver su funcionamiento se puede ver aquí:
 
