@@ -1,8 +1,9 @@
-Proyecto Lunar Landing (JavaScript release)
+
+# Versión minified del Proyecto Lunar Landing (JavaScript release)
 
 Autor: Antonio Garcías Muñoz
 
-Versión minified del juego Lunar Landing que incluye:
+## Incluye:
 
 • Html con los elementos básicos del juego.
 
