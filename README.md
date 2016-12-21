@@ -41,4 +41,4 @@ Partiendo del código esqueleto suministrador por el profesor mi aplicación web
 •	Como se ha citado anteriormente, hay una página de "Instrucciones"  y una página de "About" accesibles desde el menú.
   En caso se versión móvil será accesible una vez se haya pulsado "show menú".
   
-•	
+
