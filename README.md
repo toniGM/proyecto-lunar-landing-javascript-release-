@@ -11,7 +11,7 @@
   • Dispone de imágenes obtenidas en la página gratuita "pixabay".
   
 
-Previsualización: https://rawgit.com/urbinapro/lunar-landing-javascript/master/index.html
+Previsualización: https://cdn.rawgit.com/toniGM/proyecto-lunar-landing-javascript-release-/master/principal.html
 
 Se ha realizado un versión minified (branch)
 
