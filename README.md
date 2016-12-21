@@ -31,7 +31,7 @@ Partiendo del código esqueleto suministrador por el profesor mi aplicación web
 •	Al tocar la nave la superficie lunar, si la velocidad de impacto es inferior a 5 m/s, se mostrara un mensaje de "Lo has conseguido", 
   en caso negativo, y que la velocidad sea superior, explotará la nave. 
   En ambos casos el juego finaliza y puede reiniciarse con la opción del menú reiniciar.
-  También se ha añadido la opción de un contador de intentos, para así saber nuestro progreso y las veces que lo henos intentado.
+  También se ha añadido la opción de un contador de intentos cuando la nave explota y nos muestra el mensaje de "volver a intentarlo",     para así saber nuestro progreso y las veces que lo henos intentado.
 
 •	Como se ha citado anteriormente, hay una página de "Instrucciones"  y una página de "About" accesibles desde el menú.
   En caso se versión móvil será accesible una vez se haya pulsado "show menú".
