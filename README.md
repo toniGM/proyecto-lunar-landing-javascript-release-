@@ -2,10 +2,14 @@
 
 Versión release del juego Lunar Landing que incluye:
 
-•	Html con los elementos básicos del juego
-•	Css: d.css y m.css dos versiones que cargan mediante media query dependiendo del tamaño de pantalla.
-•	Js: con el javascript necesario para dejar caer la nave y parar cuando llega a un límite.
-• Dispone de imágenes obtenidas en la página gratuita "pixabay".
+  •	Html con los elementos básicos del juego.
+  
+  •	Css: d.css y m.css dos versiones que cargan mediante media query dependiendo del tamaño de pantalla.
+  
+  •	Js: con el javascript necesario para dejar caer la nave y parar cuando llega a un límite.
+  
+  • Dispone de imágenes obtenidas en la página gratuita "pixabay".
+  
 
 Previsualización: https://rawgit.com/urbinapro/lunar-landing-javascript/master/index.html
 
